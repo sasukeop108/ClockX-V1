@@ -14,7 +14,7 @@
 #define b4 0   // D3 - GPIO0 (Decrease/Back)  Add 10KΩ resistor to 3.3V!
 
 // Buzzer Pin
-#define BUZZER_PIN 5  // D1 - GPIO5
+#define BUZZER_PIN 2  // D4 - GPIO2 connect this pin to base of 2n222a transistor with a 1k resistor,connect emitter with gnd and connect buzzer gnd to collector and positive of buzzer to 5v
 
 int sen = 1; // Start at Clock (1=Clock, 2=Game, 3=Alarm, 4=Settings)
 
