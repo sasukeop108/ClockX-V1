@@ -1,7 +1,7 @@
 Item,Description,,Qty,Unit Price (USD),Total (USD),,,,,,,,,,,,,,,,,,,,,,
 Microcontroller,Wemos d1 mini,,1,7.74,7.74,https://makerbazar.in/products/wemos-d1-mini-iot-esp8266-based-development-board?variant=48251175600368,,,,,,,,,,,,,,,,,,,,,
 DISPLAY,128*64 I2C OLED,,1,2.09,2.09,https://makerbazar.in/products/0-96-inch-128x64-oled-display-module,,,,,,,,,,,,,,,,,,,,,
-boost module,Step-up converter,,1,0.72,https://makerbazar.in/products/boost-converterdc-dc?variant=19361177763936,,,,,,,,,,,,,,,,,,,,,
+boost module,Step-up converter,,1,0.72,0.72,https://makerbazar.in/products/boost-converterdc-dc?variant=19361177763936,,,,,,,,,,,,,,,,,,,,,
 buzzer,Hdp1206 buzzer,,1,0.21,0.21,https://makerbazar.in/products/b12-hdp1206-mini-active-buzzer,,,,,,,,,,,,,,,,,,,,,
 button,6*6 mm push button,,1,0.22,0.22,https://makerbazar.in/products/small-push-button-switch?variant=44840000880880,,,,,,,,,,,,,,,,,,,,,
 battery,1000 mAh lipo battery,,1,4.42,4.42,https://makerbazar.in/products/single-cell-3-7v-10000mah-lipo-battery?variant=48251044659440,,,,,,,,,,,,,,,,,,,,,
@@ -14,9 +14,4 @@ header ,female header,,3,0.097,0.28,https://makerbazar.in/products/female-berg-s
 nut & bolt,phillips nut & bolt,,1,0.23,0.23,https://makerbazar.in/products/philips-head-nuts-bolts-set-silver-plated-pack-of-10?variant=43604541571312,,,,,,,,,,,,,,,,,,,,,
 heatshrink,black shrink,,1,0.078,0.078,https://makerbazar.in/products/heat-shrink?variant=44960740475120,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,Total,14.38 USD,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-
-
-
+,,,,Total,17.10 USD,,,,,,,,,,,,,,,,,,,,,,
