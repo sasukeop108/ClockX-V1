@@ -9,7 +9,7 @@ It has a menu with  4 options which are NTP clock, Alarm, Setting, and game. It 
 It derives time using the NTP protocol and inbuilt WiFi of wemos d1 mini. It has a chrome dino game in the game menu.
 
 # Circuit Diagram
-[Circuit Diagram](https://github.com/sasukeop108/ClockX-V1/blob/main/Photos/circuitDiagram.png)
+![Circuit Diagram](https://github.com/sasukeop108/ClockX-V1/blob/main/Photos/circuitDiagram.png)
 # BOM
 # Bill of Materials
 
