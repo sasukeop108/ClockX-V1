@@ -33,11 +33,11 @@ It derives time using the NTP protocol and inbuilt WiFi of wemos d1 mini. It has
 | **Maker Bazaar Delivery** | | | | **+₹60.00** | | **+$0.72** | |
 | **Quartz Components Delivery** | | | | **+₹50.00** | | **+$0.60** | |
 | **Quartz Components Tax** | | | | **+₹58.68** | | **+$0.71** | |
-| **PCB Grant** | PCB Manufacturing Grant | | | **+546** | | **+$6.14** | |
+| **PCB Grant** | PCB Manufacturing Grant | | | **+728.61** | | **+$8** | |
 | **3D Print Grant** |Shipping Grant | | | **+₹273.23** | | **+$3.00** | |
-| **GRAND TOTAL** | | | | **₹2185.84** | | **$24** | |
+| **GRAND TOTAL** | | | | **₹2429** | | **$26.80** | |
 
-*\*Note: USD conversions are approximate and based on an exchange rate of 1 USD = 83 INR. Actual rates may vary at the time when you see. It is approximately 34 dollar according to today's exchange rate.*
+*\*Note: USD conversions are approximate and based on an exchange rate of 1 USD = 83 INR. Actual rates may vary at the time when you see. It is approximately 27 dollar according to today's exchange rate.*
 
 ## Summary
 
@@ -45,8 +45,8 @@ It derives time using the NTP protocol and inbuilt WiFi of wemos d1 mini. It has
 - **Quartz Components Items:** Battery + Nut + 2×Heat Insert = **₹276.00**
 - **Self Sourced Items:** Boost Module (₹65) + Header (₹8.50) = **₹73.50**
 - **Delivery & Tax:** Maker Bazaar Delivery (₹60) + Quartz Delivery (₹50) + Quartz Tax (₹58.68) = **₹168.68**
-- **Grants:** PCB Grant (₹546) + 3D Print Grant (₹273.23) = **₹1044**
-- **Grand Total:** **2185.84 INR** (approximately **$24 USD**)
+- **Grants:** PCB Grant (₹728.61) + 3D Print Grant (₹273.23) = **₹1002**
+- **Grand Total:** **2429 INR** (approximately **$27 USD**)
 
 ## Self Sourced Items (Not Purchased)
 - Boost Module (Step-up Converter) - ₹65.00
