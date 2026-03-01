@@ -2,7 +2,7 @@
 
 This is a clock which can display time, Date etc, alarms can be set ,has games and has 4 inbuilt buttons to control them.
 I decided to make this because i wake up from sleep, I cannot se the time clearly because the clock is far away from my
-bed and im feeling lazy to move near the clock and see the time , So i designed ClockX which has my most favourite and usefull things at one place.
+bed and im feeling lazy to move near the clock and see the time , So i designed ClockX which has my most favourite and usefull things at one place. first I decided to solder in zeropcb, But later I was curious to learn cad and pcb designing so I made a pcb and a enclosure for it.
 
 It is powered by a wemos d1 mini for proccessing all data and has 0.96 inch i2c oled display for displaying all the datas.
 It has a menu with  4 options which are NTP clock, Alarm, Setting, and game. It has 1000 MaH which would power them  for some hours.
@@ -74,3 +74,10 @@ It derives time using the NTP protocol and inbuilt WiFi of wemos d1 mini. It has
  
     
 **Project url**- https://blueprint.hackclub.com/projects/9123
+
+**Reference and inspiration**
+
+https://youtu.be/3gI2dTkNN_A?si=NC1nUjIlxpC8zosO
+
+**Installation**
+First, Solder the wemos d1 mini in the pcb. After that, Solder all other componenets.Next, Solder the battery wires in vcc and gnd pad, Flash the code. Take the inserts and Insert it into the case using soldering iron, place the pcb correctly and place the lid. Now take the screws and tighten them. Turn on Clockx and you're ready to go!
