@@ -35,7 +35,7 @@ It derives time using the NTP protocol and inbuilt WiFi of wemos d1 mini. It has
 | **Quartz Components Tax** | | | | **+₹58.68** | | **+$0.71** | |
 | **PCB Grant** | PCB Manufacturing Grant | | | **+546** | | **+$6.14** | |
 | **3D Print Grant** |Shipping Grant | | | **+₹498.00** | | **+$6.00** | |
-| **GRAND TOTAL** | | | | **₹3095.15** | | **$27** | |
+| **GRAND TOTAL** | | | | **₹2435.30** | | **$27** | |
 
 *\*Note: USD conversions are approximate and based on an exchange rate of 1 USD = 83 INR. Actual rates may vary at the time when you see. It is approximately 34 dollar according to today's exchange rate.*
 
