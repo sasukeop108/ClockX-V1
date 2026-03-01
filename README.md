@@ -80,4 +80,4 @@ It derives time using the NTP protocol and inbuilt WiFi of wemos d1 mini. It has
 
 **Installation**
 
-First, Solder the wemos d1 mini after thar Solder other Components and flash the firmware.Now Solder the battery wires in Vcc and gnd pad. Next, Insert the heart inserts into case usin a soldering iron and keep that pcb in place,keep the lod above it and tighten the screws.Finally, You're ready to go with ClockX
+First, Solder the wemos d1 mini after thar Solder other Components and flash the firmware.Now Solder the battery wires in Vcc and gnd pad. Next, Insert the heart inserts into case usin a soldering iron and keep that pcb in place,keep the lod above it and tighten the screws.Finally, You're ready to go with ClockX!
