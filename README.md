@@ -6,8 +6,10 @@ bed and im feeling lazy to move near the clock and see the time , So i designed 
 
 It is powered by a wemos d1 mini for proccessing all data and has 0.96 inch i2c oled display for displaying all the datas.
 It has a menu with  4 options which are NTP clock, Alarm, Setting, and game. It has 1000 MaH which would power them  for some hours.
-It derives time using the NTP protocol and inbuilt WiFi of wemos d1 mini. It has a chrome dino game in the game menu.
-
+It derives time 
+using the NTP protocol and inbuilt WiFi of wemos d1 mini. It has a chrome dino game in the game menu.
+# cad with pcb
+![Cad with pcb](https://github.com/sasukeop108/ClockX-V1/blob/main/Photos/CAD_WITH_PCB.png)
 # Circuit Diagram
 ![Circuit Diagram](https://github.com/sasukeop108/ClockX-V1/blob/main/Photos/circuitDiagram.png)
 # BOM
