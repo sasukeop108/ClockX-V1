@@ -10,6 +10,14 @@ It derives time
 using the NTP protocol and inbuilt WiFi of wemos d1 mini. It has a chrome dino game in the game menu.
 # cad with pcb
 ![Cad with pcb](https://github.com/sasukeop108/ClockX-V1/blob/main/Photos/CAD_WITH_PCB.png)
+
+![Cad2](https://github.com/sasukeop108/ClockX-V1/tree/main/Photos/bottomview.png)
+
+![Cad with pcb3](https://github.com/sasukeop108/ClockX-V1/tree/main/Photos/rightview.png)
+
+![Cad with pcb4](https://github.com/sasukeop108/ClockX-V1/tree/main/Photos/leftview.png)
+
+![Cad with pcb5](https://github.com/sasukeop108/ClockX-V1/tree/main/Photos/backview.png)
 # 2D PCB & Schematic
 ![2d pcb](https://github.com/sasukeop108/ClockX-V1/blob/main/Photos/2D_PCB1_2_2026-03-02.png)
 ![Schematic](https://github.com/sasukeop108/ClockX-V1/blob/main/Photos/Schematic.png)
